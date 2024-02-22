@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t55.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t55.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_family.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\family.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_practice_grid_layout.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\practice_grid_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t63.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t63.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t33.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t33.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t71.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t71.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t25.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t25.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_baseline_star_24.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\baseline_star_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t62.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t62.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_border_background.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\border_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t11.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t85.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t85.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t24.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t24.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t72.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t72.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_custom_checked_radio_button.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\custom_checked_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t53.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t53.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_item_message_computer.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\item_message_computer.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t15.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t42.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t42.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\raw_sample2.mp4.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\raw\\sample2.mp4"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_bg_message_user.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\bg_message_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t65.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t65.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_custom_grid_layout.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\custom_grid_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_numbers.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\numbers.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t12.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t11crop.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t11crop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_activity_lesson.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\activity_lesson.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t73.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t73.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_activity_practice.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\activity_practice.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_star.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\star.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t35.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t35.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t22.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t22.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t32.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t32.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t45.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t45.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t83.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t83.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_app_toolbar.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\app_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_color.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\color.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t21.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t21.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_rounded_corner_16dp.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\rounded_corner_16dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t74.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t74.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_activity_video.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t82.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t82.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_food.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\food.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t14.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_baseline_clear_24_red.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\baseline_clear_24_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_forum_24px.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\forum_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_baseline_assignment_turned_in_24.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\baseline_assignment_turned_in_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t52.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t52.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t44.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t44.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_baseline_add_home_24.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\baseline_add_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_business_center_24px.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\business_center_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_images_rounded_corner.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\images_rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t43.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t43.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t75.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t75.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\raw_sample.mp4.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\raw\\sample.mp4"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_lesson_grid_layout.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\lesson_grid_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t81.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t81.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_chat_item.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\chat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_leave_practice_confirmation_layout.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\leave_practice_confirmation_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_custom_radio_button.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\custom_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_calender.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\calender.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_greeting.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\greeting.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t23.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t23.jpg"
+    },
+    {
+        "merged": "com.example.italify.app-debug-47:/layout_activity_practice.xml.flat",
+        "source": "com.example.italify.app-main-49:/layout/activity_practice.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t34.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t34.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t61.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t61.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t31.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t31.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_baseline_clear_24.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\baseline_clear_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_practice_report_layout.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\practice_report_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t84.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t84.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t41.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t41.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_phrase.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\phrase.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_sport.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\sport.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_local_mall.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\local_mall.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_local_pizza.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\local_pizza.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t54.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t54.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t64.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t64.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\layout_item_message_user.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\item_message_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t13.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_t51.jpg.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\t51.jpg"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_bg_message_computer.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\bg_message_computer.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-debug-47:\\drawable_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\drawable\\baseline_check_24.xml"
+    }
+]

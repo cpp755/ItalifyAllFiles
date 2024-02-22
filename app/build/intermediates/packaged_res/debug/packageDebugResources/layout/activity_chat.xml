@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/main"
+    android:fitsSystemWindows="true"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/app_toolbar" />
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view_chat"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottom_layout"
+        android:layout_below="@+id/toolbar"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:padding="8dp"
+        android:id="@+id/bottom_layout">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/message_edit_text"
+            android:layout_centerInParent="true"
+            android:maxLines="3"
+            android:hint="ask your question"
+            android:layout_toLeftOf="@+id/send_btn"
+            android:background="@drawable/rounded_corner"
+            android:padding="8dp"/>
+        <ImageButton
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:id="@+id/send_btn"
+            android:layout_marginStart="8dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerInParent="true"
+            android:src="@drawable/baseline_send_24"
+            android:background="?attr/selectableItemBackgroundBorderless"/>
+    </RelativeLayout>
+
+<!--    <ScrollView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_below="@+id/toolbar"-->
+<!--        android:layout_above="@+id/messageInputLayout"-->
+<!--        android:layout_height="match_parent">-->
+<!--        <RelativeLayout-->
+<!--            android:layout_gravity="bottom"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content">-->
+
+
+
+<!--            <LinearLayout-->
+<!--                android:id="@+id/chatAI1"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_alignParentStart="true"-->
+<!--                android:layout_marginStart="8dp"-->
+<!--                android:layout_marginBottom="8dp"-->
+<!--                android:layout_marginTop="8dp"-->
+<!--                android:layout_marginEnd="70dp"-->
+<!--                android:background="@drawable/bg_message_computer"-->
+<!--                android:orientation="vertical"-->
+<!--                android:padding="8dp">-->
+<!--                <TextView-->
+<!--                    android:id="@+id/chatAI11"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textColor="@android:color/white" />-->
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:id="@+id/ChatUser1"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginStart="70dp"-->
+<!--                android:layout_marginBottom="8dp"-->
+<!--                android:layout_marginTop="8dp"-->
+<!--                android:layout_marginEnd="8dp"-->
+<!--                android:layout_alignParentEnd="true"-->
+<!--                android:background="@drawable/bg_message_user"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_below="@id/chatAI1"-->
+<!--                android:visibility="gone"-->
+<!--                android:padding="8dp">-->
+<!--                <TextView-->
+<!--                    android:id="@+id/ChatUser11"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textColor="@android:color/white" />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:id="@+id/chatAI2"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_alignParentStart="true"-->
+<!--                android:layout_marginStart="8dp"-->
+<!--                android:layout_marginBottom="8dp"-->
+<!--                android:layout_marginTop="8dp"-->
+<!--                android:layout_marginEnd="70dp"-->
+<!--                android:background="@drawable/bg_message_computer"-->
+<!--                android:layout_below="@+id/ChatUser1"-->
+<!--                android:orientation="vertical"-->
+<!--                android:visibility="gone"-->
+<!--                android:padding="8dp">-->
+<!--                <TextView-->
+<!--                    android:id="@+id/chatAI21"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textColor="@android:color/white" />-->
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:id="@+id/ChatUser2"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginStart="70dp"-->
+<!--                android:layout_marginBottom="8dp"-->
+<!--                android:layout_marginTop="8dp"-->
+<!--                android:layout_marginEnd="8dp"-->
+<!--                android:layout_alignParentEnd="true"-->
+<!--                android:background="@drawable/bg_message_user"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_below="@id/chatAI2"-->
+<!--                android:visibility="gone"-->
+<!--                android:padding="8dp">-->
+<!--                <TextView-->
+<!--                    android:id="@+id/ChatUser21"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textColor="@android:color/white" />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:id="@+id/chatAI3"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:visibility="gone"-->
+<!--                android:layout_alignParentStart="true"-->
+<!--                android:layout_marginStart="8dp"-->
+<!--                android:layout_marginBottom="8dp"-->
+<!--                android:layout_marginTop="8dp"-->
+<!--                android:layout_marginEnd="70dp"-->
+<!--                android:background="@drawable/bg_message_computer"-->
+<!--                android:layout_below="@+id/ChatUser2"-->
+<!--                android:orientation="vertical"-->
+<!--                android:padding="8dp">-->
+<!--                <TextView-->
+<!--                    android:id="@+id/chatAI31"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textColor="@android:color/white" />-->
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:visibility="gone"-->
+<!--                android:id="@+id/ChatUser3"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginStart="70dp"-->
+<!--                android:layout_marginBottom="8dp"-->
+<!--                android:layout_marginTop="8dp"-->
+<!--                android:layout_marginEnd="8dp"-->
+<!--                android:layout_alignParentEnd="true"-->
+<!--                android:background="@drawable/bg_message_user"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_below="@id/chatAI3"-->
+<!--                android:padding="8dp">-->
+<!--                <TextView-->
+<!--                    android:id="@+id/ChatUser31"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textColor="@android:color/white" />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:visibility="gone"-->
+<!--                android:id="@+id/chatAI4"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_alignParentStart="true"-->
+<!--                android:layout_marginStart="8dp"-->
+<!--                android:layout_marginBottom="8dp"-->
+<!--                android:layout_marginTop="8dp"-->
+<!--                android:layout_marginEnd="70dp"-->
+<!--                android:background="@drawable/bg_message_computer"-->
+<!--                android:layout_below="@+id/ChatUser3"-->
+<!--                android:orientation="vertical"-->
+<!--                android:padding="8dp">-->
+<!--                <TextView-->
+<!--                    android:id="@+id/chatAI41"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textColor="@android:color/white" />-->
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:visibility="gone"-->
+<!--                android:id="@+id/ChatUser4"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginStart="70dp"-->
+<!--                android:layout_marginBottom="8dp"-->
+<!--                android:layout_marginTop="8dp"-->
+<!--                android:layout_marginEnd="8dp"-->
+<!--                android:layout_alignParentEnd="true"-->
+<!--                android:background="@drawable/bg_message_user"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_below="@id/chatAI4"-->
+<!--                android:padding="8dp">-->
+<!--                <TextView-->
+<!--                    android:id="@+id/ChatUser41"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textColor="@android:color/white" />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:visibility="gone"-->
+<!--                android:id="@+id/chatAI5"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_alignParentStart="true"-->
+<!--                android:layout_marginStart="8dp"-->
+<!--                android:layout_marginBottom="8dp"-->
+<!--                android:layout_marginTop="8dp"-->
+<!--                android:layout_marginEnd="70dp"-->
+<!--                android:background="@drawable/bg_message_computer"-->
+<!--                android:layout_below="@+id/ChatUser3"-->
+<!--                android:orientation="vertical"-->
+<!--                android:padding="8dp">-->
+<!--                <TextView-->
+<!--                    android:id="@+id/chatAI51"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textColor="@android:color/white" />-->
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:visibility="gone"-->
+<!--                android:id="@+id/ChatUser5"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginStart="70dp"-->
+<!--                android:layout_marginBottom="8dp"-->
+<!--                android:layout_marginTop="8dp"-->
+<!--                android:layout_marginEnd="8dp"-->
+<!--                android:layout_alignParentEnd="true"-->
+<!--                android:background="@drawable/bg_message_user"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_below="@id/chatAI4"-->
+<!--                android:padding="8dp">-->
+<!--                <TextView-->
+<!--                    android:id="@+id/ChatUser51"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textColor="@android:color/white" />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:visibility="gone"-->
+<!--                android:id="@+id/chatAI6"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_alignParentStart="true"-->
+<!--                android:layout_marginStart="8dp"-->
+<!--                android:layout_marginBottom="8dp"-->
+<!--                android:layout_marginTop="8dp"-->
+<!--                android:layout_marginEnd="70dp"-->
+<!--                android:background="@drawable/bg_message_computer"-->
+<!--                android:layout_below="@+id/ChatUser3"-->
+<!--                android:orientation="vertical"-->
+<!--                android:padding="8dp">-->
+<!--                <TextView-->
+<!--                    android:id="@+id/chatAI61"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textColor="@android:color/white" />-->
+<!--            </LinearLayout>-->
+
+
+
+<!--        </RelativeLayout>-->
+<!--    </ScrollView>-->
+
+<!--&lt;!&ndash;    <androidx.recyclerview.widget.RecyclerView&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/recyclerView"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_below="@+id/toolbar"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_above="@+id/messageInputLayout"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:padding="8dp"/>&ndash;&gt;-->
+
+<!--    <com.google.android.material.textfield.TextInputLayout-->
+<!--        android:id="@+id/messageInputLayout"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_margin="8dp"-->
+<!--        android:hint="Type a message">-->
+
+<!--        <com.google.android.material.textfield.TextInputEditText-->
+<!--            android:id="@+id/messageInputEditText"-->
+<!--            android:maxLines="4"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"/>-->
+<!--    </com.google.android.material.textfield.TextInputLayout>-->
+
+<!--    <Button-->
+<!--        android:id="@+id/sendButton"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_margin="8dp"-->
+<!--        android:text="Send"-->
+<!--        android:onClick="sendMessage"/>-->
+
+</RelativeLayout>

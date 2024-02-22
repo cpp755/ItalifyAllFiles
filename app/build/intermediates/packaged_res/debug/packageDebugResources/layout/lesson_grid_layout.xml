@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:id="@+id/lessonGridLayoutID"
+    android:background="@drawable/border_background"
+    android:paddingRight="4dp"
+    android:paddingBottom="4dp"
+    android:paddingTop="4dp"
+    android:paddingLeft="2dp"
+    android:layout_margin="4dp"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:id="@+id/video_thumbnail"
+        android:layout_width="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="0.4"
+        android:background="@drawable/rounded_corner_16dp"
+        android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="0.6">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:textSize="16sp"
+                android:id="@+id/videoTitle"
+                android:layout_width="0dp"
+                android:layout_weight="12"
+                android:layout_height="wrap_content"/>
+            <ImageView
+                android:visibility="gone"
+                android:src="@drawable/baseline_assignment_turned_in_24"
+                android:layout_width="0dp"
+                android:id="@+id/lessonStatus"
+                android:layout_weight="1"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+        <Button
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:text="Watch"
+            android:id="@+id/button_watch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_practice"
+            android:text="Go to practice"/>
+    </LinearLayout>
+
+</LinearLayout>

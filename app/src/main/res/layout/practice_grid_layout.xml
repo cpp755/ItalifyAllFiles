@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="4dp"
+    android:orientation="vertical"
+    android:id="@+id/practiceGridLayoutID"
+    android:background="@drawable/border_background"
+    android:layout_margin="4dp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:paddingLeft="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_width="0dp"
+            android:layout_weight="18"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:id="@+id/question"/>
+        <ImageView
+            android:visibility="gone"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/responseStatus"/>
+
+    </LinearLayout>
+
+    <RadioGroup
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:id="@+id/optionsGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:textSize="15sp"
+            android:paddingRight="4dp"
+            android:paddingLeft="4dp"
+            android:button="@drawable/custom_radio_button"
+            android:background="@drawable/custom_checked_radio_button"
+            android:id="@+id/answer1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:textSize="15sp"
+            android:paddingRight="4dp"
+            android:paddingLeft="4dp"
+            android:button="@drawable/custom_radio_button"
+            android:background="@drawable/custom_checked_radio_button"
+            android:id="@+id/answer2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:textSize="15sp"
+            android:paddingRight="4dp"
+            android:paddingLeft="4dp"
+            android:button="@drawable/custom_radio_button"
+            android:background="@drawable/custom_checked_radio_button"
+            android:id="@+id/answer3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:textSize="15sp"
+            android:paddingRight="4dp"
+            android:paddingLeft="4dp"
+            android:button="@drawable/custom_radio_button"
+            android:background="@drawable/custom_checked_radio_button"
+            android:id="@+id/answer4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </RadioGroup>
+
+</LinearLayout>

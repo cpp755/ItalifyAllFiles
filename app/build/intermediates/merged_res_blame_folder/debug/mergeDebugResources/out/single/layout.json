@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\activity_video.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\chat_item.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\chat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\lesson_grid_layout.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\lesson_grid_layout.xml"
+    },
+    {
+        "merged": "com.example.italify.app-mergeDebugResources-46:/layout/activity_practice.xml",
+        "source": "com.example.italify.app-main-49:/layout/activity_practice.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\activity_practice.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\activity_practice.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\custom_grid_layout.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\custom_grid_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\item_message_user.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\item_message_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\item_message_computer.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\item_message_computer.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\practice_grid_layout.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\practice_grid_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\app_toolbar.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\app_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\practice_report_layout.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\practice_report_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\leave_practice_confirmation_layout.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\leave_practice_confirmation_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-mergeDebugResources-46:\\layout\\activity_lesson.xml",
+        "source": "C:\\Users\\cleve\\.gradle\\daemon\\8.4\\com.example.italify.app-main-49:\\layout\\activity_lesson.xml"
+    }
+]

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PracticeActivity">
+
+    <include layout="@layout/app_toolbar" />
+    <TextView
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginBottom="2dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="4dp"
+        android:id="@+id/practiceDescription"
+        android:textSize="16sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar"
+        android:text="Please answer all the questions then press the evaluation button"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/practiceList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/practiceDescription"
+        android:layout_above="@id/buttonGroupsInPractice"
+        >
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <LinearLayout
+        android:layout_margin="2dp"
+        android:layout_width="match_parent"
+        android:id="@+id/buttonGroupsInPractice"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/goBackToLesson"
+            android:text="Return to lesson"
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:layout_marginRight="8dp"
+            android:layout_marginLeft="16dp"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/evaluatePractice"
+            android:text="Evaluate now"
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="16dp"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</RelativeLayout>
